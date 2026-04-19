@@ -1,0 +1,34 @@
+cluster_id,label,forecast_month,forecast_step,predicted_share_pct,slope,intercept
+0,Denim Basics (Pinterest Jeans Cluster),2016-02-01,1,4.9731,0.265172,2.851728
+0,Denim Basics (Pinterest Jeans Cluster),2016-03-01,2,5.2383,0.265172,2.851728
+0,Denim Basics (Pinterest Jeans Cluster),2016-04-01,3,5.5035,0.265172,2.851728
+1,Marketplace Promotions (Mixed Shop Ads),2016-02-01,1,34.4565,4.604131,-2.37658
+1,Marketplace Promotions (Mixed Shop Ads),2016-03-01,2,39.0606,4.604131,-2.37658
+1,Marketplace Promotions (Mixed Shop Ads),2016-04-01,3,43.6647,4.604131,-2.37658
+2,Resale Bags & Preloved Fashion,2016-02-01,1,1.6531,-0.170348,3.015852
+2,Resale Bags & Preloved Fashion,2016-03-01,2,1.4827,-0.170348,3.015852
+2,Resale Bags & Preloved Fashion,2016-04-01,3,1.3124,-0.170348,3.015852
+3,High-Street OOTD / Fashion Blogger Basics,2016-02-01,1,0.0,-5.387999,40.099082
+3,High-Street OOTD / Fashion Blogger Basics,2016-03-01,2,0.0,-5.387999,40.099082
+3,High-Street OOTD / Fashion Blogger Basics,2016-04-01,3,0.0,-5.387999,40.099082
+4,Luxury Glam Lifestyle (Dubai / Wedding / Pink),2016-02-01,1,11.9311,1.000154,3.929905
+4,Luxury Glam Lifestyle (Dubai / Wedding / Pink),2016-03-01,2,12.9313,1.000154,3.929905
+4,Luxury Glam Lifestyle (Dubai / Wedding / Pink),2016-04-01,3,13.9314,1.000154,3.929905
+5,Menswear Tailoring / Milan Fashion Week,2016-02-01,1,2.6924,0.426945,-0.723116
+5,Menswear Tailoring / Milan Fashion Week,2016-03-01,2,3.1194,0.426945,-0.723116
+5,Menswear Tailoring / Milan Fashion Week,2016-04-01,3,3.5463,0.426945,-0.723116
+6,Smart-Casual Streetstyle (Boots / Leather / Denim),2016-02-01,1,21.601,0.902552,14.380596
+6,Smart-Casual Streetstyle (Boots / Leather / Denim),2016-03-01,2,22.5036,0.902552,14.380596
+6,Smart-Casual Streetstyle (Boots / Leather / Denim),2016-04-01,3,23.4061,0.902552,14.380596
+7,Luxury Accessories Resale / Personal Shopper,2016-02-01,1,16.6577,1.62739,3.638615
+7,Luxury Accessories Resale / Personal Shopper,2016-03-01,2,18.2851,1.62739,3.638615
+7,Luxury Accessories Resale / Personal Shopper,2016-04-01,3,19.9125,1.62739,3.638615
+8,Authentic US Luxury Bag Sellers (Promo Accounts),2016-02-01,1,1.9038,0.308681,-0.565603
+8,Authentic US Luxury Bag Sellers (Promo Accounts),2016-03-01,2,2.2125,0.308681,-0.565603
+8,Authentic US Luxury Bag Sellers (Promo Accounts),2016-04-01,3,2.5212,0.308681,-0.565603
+10,Fashion Blogger Handbag Features,2016-02-01,1,0.6986,-3.853978,31.530401
+10,Fashion Blogger Handbag Features,2016-03-01,2,0.0,-3.853978,31.530401
+10,Fashion Blogger Handbag Features,2016-04-01,3,0.0,-3.853978,31.530401
+11,Luxury Multi-Brand Boutique Fashion,2016-02-01,1,6.4375,0.277299,4.21912
+11,Luxury Multi-Brand Boutique Fashion,2016-03-01,2,6.7148,0.277299,4.21912
+11,Luxury Multi-Brand Boutique Fashion,2016-04-01,3,6.9921,0.277299,4.21912

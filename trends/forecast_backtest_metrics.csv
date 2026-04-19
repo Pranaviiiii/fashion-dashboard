@@ -1,0 +1,12 @@
+cluster_id,label,actual_last_share_pct,predicted_last_share_pct_linear,predicted_last_share_pct_naive,mae_linear,mae_naive,mape_pct_linear,mape_pct_naive,better_model,mae_improvement_vs_naive
+4,Luxury Glam Lifestyle (Dubai / Wedding Aesthetic),11.3099,10.6603,5.9011,0.6496,5.4088,5.7432,47.8234,linear,4.7592
+8,Authentic US Luxury Bag Sellers (Promo Accounts),3.6352,0.138,0.0,3.4971,3.6352,96.203,100.0,linear,0.138
+2,Resale Bags & Preloved Fashion,4.1846,0.1368,0.7974,4.0478,3.3872,96.7298,80.9433,naive,-0.6606
+10,Fashion Blogger Designer Bag Features,7.0022,2.8028,5.9011,4.1994,1.1011,59.9724,15.7248,naive,-3.0983
+0,Denim Basics (Pinterest Jeans Cluster),7.2747,2.8745,2.5518,4.4002,4.7229,60.4863,64.9219,linear,0.3227
+5,Menswear Tailoring (Milan Fashion Week),5.244,0.138,0.0,5.1059,5.244,97.3679,100.0,linear,0.138
+7,Luxury Accessories Resale & Personal Shopping,10.8659,18.0049,21.2121,7.139,10.3462,65.7007,95.2167,linear,3.2072
+11,Luxury Multi-Brand Boutique Fashion,10.6637,2.9434,3.1898,7.7203,7.4739,72.398,70.0875,naive,-0.2464
+3,High-Street OOTD & Fashion Blogger Basics,15.9209,0.0,5.5821,15.9209,10.3387,100.0,64.9383,naive,-5.5821
+1,Marketplace Promotions (Mixed Fashion Ads),19.7802,37.0467,41.6268,17.2665,21.8466,87.2917,110.4466,linear,4.5801
+6,Smart-Casual Streetstyle (Boots / Leather / Denim),4.1187,32.5412,13.2376,28.4225,9.119,690.0868,221.4048,naive,-19.3035
